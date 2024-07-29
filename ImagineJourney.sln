@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{F131FEF7-94EC-4619-AB22-56A5514B7750}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{AB390B97-E5CB-405D-A3C4-9AF0B1F0CE80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImagineJourney.AppHost", "src\ImagineJourney.AppHost\ImagineJourney.AppHost.csproj", "{3B41FFE6-28BF-45A6-8699-444DFB48D207}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImagineJourney.ServiceDefaults", "src\ImagineJourney.ServiceDefaults\ImagineJourney.ServiceDefaults.csproj", "{071FCB04-45E2-45A0-B719-7BBDC71F68E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B41FFE6-28BF-45A6-8699-444DFB48D207}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B41FFE6-28BF-45A6-8699-444DFB48D207}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B41FFE6-28BF-45A6-8699-444DFB48D207}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B41FFE6-28BF-45A6-8699-444DFB48D207}.Release|Any CPU.Build.0 = Release|Any CPU
+		{071FCB04-45E2-45A0-B719-7BBDC71F68E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{071FCB04-45E2-45A0-B719-7BBDC71F68E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{071FCB04-45E2-45A0-B719-7BBDC71F68E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{071FCB04-45E2-45A0-B719-7BBDC71F68E9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3B41FFE6-28BF-45A6-8699-444DFB48D207} = {F131FEF7-94EC-4619-AB22-56A5514B7750}
+		{071FCB04-45E2-45A0-B719-7BBDC71F68E9} = {F131FEF7-94EC-4619-AB22-56A5514B7750}
+	EndGlobalSection
+EndGlobal
